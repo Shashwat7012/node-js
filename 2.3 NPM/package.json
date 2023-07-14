@@ -1,0 +1,16 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "want to be a fullstack developer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashwat",
+  "license": "ISC",
+  "dependencies": {
+    "marvel-comics-characters": "^1.1.1"
+    
+  }
+}
